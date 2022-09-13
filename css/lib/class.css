@@ -1,1 +1,19 @@
 @import url("font-classes/font-classes.css");
+.container
+{
+    width: 50%;
+    margin: 0 auto;
+    z-index: 9999;
+}
+.boxSbb
+{
+    box-sizing: border-box;
+}
+.textCenter
+{
+    text-align: center;
+}
+.w100
+{
+    width: 100%;
+}
